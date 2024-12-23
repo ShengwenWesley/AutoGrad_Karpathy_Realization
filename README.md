@@ -9,6 +9,6 @@ This is walkthrough of basic concepts for Back-Propagation (BP) Process and Auto
 ‘micorgrad’ (Github https://github.com/karpathy/micrograd). 
 
 # Explanation
-The autograd.ipynb and Blog Sample Creation.ipynb are the source code for AutoGrad (adjusted version from Adrew Karpathy)
-I also have a notion notes written for this
-Feel free to leave a issue/pr if you see any problems
+The autograd.ipynb and Blog Sample Creation.ipynb are the source code for AutoGrad (adjusted version from Adrew Karpathy).
+I also have a notion notes written for this @ https://relic-soda-875.notion.site/BackPropagation-AutoGrad-165409cd6d35809a9991e889409b2979
+Feel free to leave a issue/pr if you see any problems. 
